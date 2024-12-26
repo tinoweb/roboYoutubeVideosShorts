@@ -1,0 +1,51 @@
+# Arquivos de autenticação e tokens
+client_secrets.json
+token_*.pickle
+
+# Diretório de vídeos
+videos_temu/
+videos/
+
+# Logs
+uploads_log.json
+*.log
+
+# Ambiente Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Ambientes virtuais
+.env
+.venv
+venv/
+ENV/
+
+# IDEs e editores
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
